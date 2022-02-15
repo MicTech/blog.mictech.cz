@@ -1,15 +1,15 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Gesko",
-    "home_page_url": "https://blog.mictech.cz/Gesko/",
-    "feed_url": "https://blog.mictech.cz/Gesko/feed.json",
-    "description": "just a minimalist, personal blog",
-    "icon": "https://blog.mictech.cz/Gesko/apple-touch-icon.png",
-    "favicon": "https://blog.mictech.cz/Gesko/favicon.ico",
+    "title": "MicTech",
+    "home_page_url": "https://blog.mictech.cz/",
+    "feed_url": "https://blog.mictech.cz/feed.json",
+    "description": "my notes mostly about software engineering and Productboard",
+    "icon": "https://blog.mictech.cz/apple-touch-icon.png",
+    "favicon": "https://blog.mictech.cz/favicon.ico",
     "expired": false,
     
     "author":  {
-        "name": "Michal Tehnik // MicTech",
+        "name": "Michal Těhník // MicTech",
         "url": null,
         "avatar": null
     },
