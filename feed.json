@@ -16,5 +16,29 @@
     
 "items": [
     
+        {
+            "id": "https://blog.mictech.cz/2022/02/15/2019-05-30-use-vscode-as-a-diff-tool",
+            "title": null,
+            "summary": null,
+            "content_text": "code -d &lt;file_1&gt; &lt;file_2&gt;",
+            "content_html": "<div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>code -d &lt;file_1&gt; &lt;file_2&gt;</code></pre></div></div>",
+            "url": "https://blog.mictech.cz/2022/02/15/2019-05-30-use-vscode-as-a-diff-tool",
+            
+            
+            
+            
+            
+            "date_published": "2022-02-15T20:44:34+01:00",
+            "date_modified": "2022-02-15T20:44:34+01:00",
+            
+                "author":  {
+                "name": "Michal Těhník // MicTech",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        }
+    
     ]
 }
