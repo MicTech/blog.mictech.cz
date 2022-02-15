@@ -4,7 +4,7 @@
  <title>MicTech</title>
  <link href="https://blog.mictech.cz/atom.xml" rel="self"/>
  <link href="https://blog.mictech.cz/"/>
- <updated>2022-02-15T20:52:37+01:00</updated>
+ <updated>2022-02-15T20:53:47+01:00</updated>
  <id>https://blog.mictech.cz</id>
  <author>
    <name>Michal Těhník // MicTech</name>
@@ -15,7 +15,7 @@
  <entry>
    <title></title>
    <link href="https://blog.mictech.cz/2022/02/15/2019-05-30-use-vscode-as-a-diff-tool"/>
-   <updated>2022-02-15T20:52:37+01:00</updated>
+   <updated>2022-02-15T20:53:47+01:00</updated>
    <id>https://blog.mictech.cz/2022/02/15/2019-05-30-use-vscode-as-a-diff-tool</id>
    <content type="html">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;code -d &amp;lt;file_1&amp;gt; &amp;lt;file_2&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -25,7 +25,7 @@
  <entry>
    <title></title>
    <link href="https://blog.mictech.cz/2022/02/15/2017-11-16-how-to-create-a-simple-histogram"/>
-   <updated>2022-02-15T20:52:37+01:00</updated>
+   <updated>2022-02-15T20:53:47+01:00</updated>
    <id>https://blog.mictech.cz/2022/02/15/2017-11-16-how-to-create-a-simple-histogram</id>
    <content type="html">&lt;h2 id=&quot;how-many-unique-users-were-created-each-month&quot;&gt;How many unique users were created each month&lt;/h2&gt;
 
@@ -58,7 +58,7 @@ GROUP BY 1,2;
  <entry>
    <title></title>
    <link href="https://blog.mictech.cz/2022/02/15/2016-05-24-how-to-handle-if-image-did-not-load"/>
-   <updated>2022-02-15T20:52:37+01:00</updated>
+   <updated>2022-02-15T20:53:47+01:00</updated>
    <id>https://blog.mictech.cz/2022/02/15/2016-05-24-how-to-handle-if-image-did-not-load</id>
    <content type="html">&lt;p&gt;Sometimes you can have a problem with images, especially when urls for them is
 generated in the code. Like for Gravatar service. User has an email, but she
