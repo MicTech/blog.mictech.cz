@@ -20,7 +20,7 @@
   
     {
       "title"    : "TIL: How to handle if image didn’t load",
-      "description" : "You can use SQL for generating simple histograms.",
+      "description" : "Sometimes you can have a problem with images, especially when urls for them is generated in the code.",
       "category" : "",
       "tags"     : "til, javascript",
       "url"      : "/2016/05/24/how-to-handle-if-image-did-not-load",
