@@ -28,8 +28,32 @@
             
             
             
-            "date_published": "2022-02-15T20:44:34+01:00",
-            "date_modified": "2022-02-15T20:44:34+01:00",
+            "date_published": "2022-02-15T20:46:57+01:00",
+            "date_modified": "2022-02-15T20:46:57+01:00",
+            
+                "author":  {
+                "name": "Michal Těhník // MicTech",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://blog.mictech.cz/2022/02/15/2017-11-16-how-to-create-a-simple-histogram",
+            "title": null,
+            "summary": null,
+            "content_text": "How many unique users were created each monthSELECT EXTRACT(YEAR FROM created_at) as year,        EXTRACT(MONTH FROM created_at) as month,        COUNT(DISTINCT(email)),       LPAD('', (COUNT(DISTINCT(email))/100)::int, '#') as frequencyFROM users GROUP BY 1,2; year | month | count | frequency------+-------+-------+----------- 2016 |     1 |   500 | 2016 |     2 |  1000 | # 2016 |     3 |  1100 | # 2016 |     4 |  1200 | # 2016 |     5 |  2000 | ## 2016 |     6 |  3000 | ### 2016 |     7 |  2000 | ## 2016 |     8 |  2000 | ## 2016 |     9 |  5000 | ##### 2016 |    10 |  5500 | ##### 2016 |    11 |  5000 | ##### 2016 |    12 |  1000 | #",
+            "content_html": "<h2 id=\"how-many-unique-users-were-created-each-month\">How many unique users were created each month</h2><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>SELECT EXTRACT(YEAR FROM created_at) as year,        EXTRACT(MONTH FROM created_at) as month,        COUNT(DISTINCT(email)),       LPAD('', (COUNT(DISTINCT(email))/100)::int, '#') as frequencyFROM users GROUP BY 1,2;</code></pre></div></div><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code> year | month | count | frequency------+-------+-------+----------- 2016 |     1 |   500 | 2016 |     2 |  1000 | # 2016 |     3 |  1100 | # 2016 |     4 |  1200 | # 2016 |     5 |  2000 | ## 2016 |     6 |  3000 | ### 2016 |     7 |  2000 | ## 2016 |     8 |  2000 | ## 2016 |     9 |  5000 | ##### 2016 |    10 |  5500 | ##### 2016 |    11 |  5000 | ##### 2016 |    12 |  1000 | #</code></pre></div></div>",
+            "url": "https://blog.mictech.cz/2022/02/15/2017-11-16-how-to-create-a-simple-histogram",
+            
+            
+            
+            
+            
+            "date_published": "2022-02-15T20:46:57+01:00",
+            "date_modified": "2022-02-15T20:46:57+01:00",
             
                 "author":  {
                 "name": "Michal Těhník // MicTech",

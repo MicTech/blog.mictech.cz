@@ -4,7 +4,7 @@
  <title>MicTech</title>
  <link href="https://blog.mictech.cz/atom.xml" rel="self"/>
  <link href="https://blog.mictech.cz/"/>
- <updated>2022-02-15T20:44:34+01:00</updated>
+ <updated>2022-02-15T20:46:57+01:00</updated>
  <id>https://blog.mictech.cz</id>
  <author>
    <name>Michal Těhník // MicTech</name>
@@ -15,9 +15,42 @@
  <entry>
    <title></title>
    <link href="https://blog.mictech.cz/2022/02/15/2019-05-30-use-vscode-as-a-diff-tool"/>
-   <updated>2022-02-15T20:44:34+01:00</updated>
+   <updated>2022-02-15T20:46:57+01:00</updated>
    <id>https://blog.mictech.cz/2022/02/15/2019-05-30-use-vscode-as-a-diff-tool</id>
    <content type="html">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;code -d &amp;lt;file_1&amp;gt; &amp;lt;file_2&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="https://blog.mictech.cz/2022/02/15/2017-11-16-how-to-create-a-simple-histogram"/>
+   <updated>2022-02-15T20:46:57+01:00</updated>
+   <id>https://blog.mictech.cz/2022/02/15/2017-11-16-how-to-create-a-simple-histogram</id>
+   <content type="html">&lt;h2 id=&quot;how-many-unique-users-were-created-each-month&quot;&gt;How many unique users were created each month&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;SELECT EXTRACT(YEAR FROM created_at) as year, 
+       EXTRACT(MONTH FROM created_at) as month, 
+       COUNT(DISTINCT(email)),
+       LPAD('', (COUNT(DISTINCT(email))/100)::int, '#') as frequency
+FROM users 
+GROUP BY 1,2;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; year | month | count | frequency
+------+-------+-------+-----------
+ 2016 |     1 |   500 |
+ 2016 |     2 |  1000 | #
+ 2016 |     3 |  1100 | #
+ 2016 |     4 |  1200 | #
+ 2016 |     5 |  2000 | ##
+ 2016 |     6 |  3000 | ###
+ 2016 |     7 |  2000 | ##
+ 2016 |     8 |  2000 | ##
+ 2016 |     9 |  5000 | #####
+ 2016 |    10 |  5500 | #####
+ 2016 |    11 |  5000 | #####
+ 2016 |    12 |  1000 | #
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
  </entry>
