@@ -1,30 +1,3 @@
 [
   
-    {
-      "title"    : "TIL: Use VS Code as diff tool",
-      "description" : "You can use Visual Studio Code as a diff tool.",
-      "category" : "",
-      "tags"     : "til",
-      "url"      : "/2019/05/30/use-vscode-as-a-diff-tool",
-      "date"     : "2019-05-30 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "TIL: How to create a simple histogram to see a trend in data",
-      "description" : "You can use SQL for generating simple histograms.",
-      "category" : "",
-      "tags"     : "til, sql",
-      "url"      : "/2017/11/16/how-to-create-a-simple-histogram",
-      "date"     : "2017-11-16 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "TIL: How to handle if image didn’t load",
-      "description" : "Sometimes you can have a problem with images, especially when urls for them is generated in the code.",
-      "category" : "",
-      "tags"     : "til, javascript",
-      "url"      : "/2016/05/24/how-to-handle-if-image-did-not-load",
-      "date"     : "2016-05-24 00:00:00 +0200"
-    } 
-  
 ]
