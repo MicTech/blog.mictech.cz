@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Gesko</title>
+ <link href="https://blog.mictech.cz/Gesko/atom.xml" rel="self"/>
+ <link href="https://blog.mictech.cz/Gesko/"/>
+ <updated>2022-02-15T18:41:27+01:00</updated>
+ <id>https://blog.mictech.cz</id>
+ <author>
+   <name>Michal Tehnik // MicTech</name>
+   <email>m@mictech.cz</email>
+ </author>
+
+ 
+
+</feed>

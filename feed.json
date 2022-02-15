@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gesko",
+    "home_page_url": "https://blog.mictech.cz/Gesko/",
+    "feed_url": "https://blog.mictech.cz/Gesko/feed.json",
+    "description": "just a minimalist, personal blog",
+    "icon": "https://blog.mictech.cz/Gesko/apple-touch-icon.png",
+    "favicon": "https://blog.mictech.cz/Gesko/favicon.ico",
+    "expired": false,
+    
+    "author":  {
+        "name": "Michal Tehnik // MicTech",
+        "url": null,
+        "avatar": null
+    },
+    
+"items": [
+    
+    ]
+}
