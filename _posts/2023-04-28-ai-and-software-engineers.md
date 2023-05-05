@@ -4,7 +4,7 @@ title: "🤖 AI and Software Engineers"
 description: My thoughts about AI and Software Engineers.
 summary: My thoughts about AI and Software Engineers.
 tags: ai thoughts linkedin
-date: 2017-11-16
+date: 2023-04-28
 ---
 
 The hype around AI, GPT, LLM, and related technologies is hard to ignore these days, especially for those working in the software industry. Opinions are divided about how AI will change the software industry - some believe it will replace software engineers entirely, while others believe it will be a valuable tool for pair programming.
