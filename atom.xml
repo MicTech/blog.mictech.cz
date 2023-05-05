@@ -4,7 +4,7 @@
  <title>MicTech</title>
  <link href="https://blog.mictech.cz/atom.xml" rel="self"/>
  <link href="https://blog.mictech.cz/"/>
- <updated>2023-05-05T07:14:01+02:00</updated>
+ <updated>2023-05-05T07:15:15+02:00</updated>
  <id>https://blog.mictech.cz</id>
  <author>
    <name>Michal Těhník // MicTech</name>
@@ -13,23 +13,23 @@
 
  
  <entry>
+   <title>🤖 AI and Software Engineers</title>
+   <link href="https://blog.mictech.cz/2023/04/28/ai-and-software-engineers"/>
+   <updated>2023-04-28T00:00:00+02:00</updated>
+   <id>https://blog.mictech.cz/2023/04/28/ai-and-software-engineers</id>
+   <content type="html">&lt;p&gt;The hype around AI, GPT, LLM, and related technologies is hard to ignore these days, especially for those working in the software industry. Opinions are divided about how AI will change the software industry - some believe it will replace software engineers entirely, while others believe it will be a valuable tool for pair programming.&lt;/p&gt;
+
+&lt;p&gt;I believe AI won’t eliminate software engineers, but it will certainly change the complexity of the software we build. Over the years, we’ve been building layers and layers of abstraction to create better and more complex applications. With AI, this process will speed up, allowing us to build more complex software faster than ever before. However, this will also bring new challenges, such as debugging. An old anecdote says that debugging is twice as hard as writing code, meaning that if you do your best while writing code, you won’t be able to debug it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>TIL: Use VS Code as diff tool</title>
    <link href="https://blog.mictech.cz/2019/05/30/use-vscode-as-a-diff-tool"/>
    <updated>2019-05-30T00:00:00+02:00</updated>
    <id>https://blog.mictech.cz/2019/05/30/use-vscode-as-a-diff-tool</id>
    <content type="html">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;code -d &amp;lt;file_1&amp;gt; &amp;lt;file_2&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>🤖 AI and Software Engineers</title>
-   <link href="https://blog.mictech.cz/2017/11/16/ai-and-software-engineers"/>
-   <updated>2017-11-16T00:00:00+01:00</updated>
-   <id>https://blog.mictech.cz/2017/11/16/ai-and-software-engineers</id>
-   <content type="html">&lt;p&gt;The hype around AI, GPT, LLM, and related technologies is hard to ignore these days, especially for those working in the software industry. Opinions are divided about how AI will change the software industry - some believe it will replace software engineers entirely, while others believe it will be a valuable tool for pair programming.&lt;/p&gt;
-
-&lt;p&gt;I believe AI won’t eliminate software engineers, but it will certainly change the complexity of the software we build. Over the years, we’ve been building layers and layers of abstraction to create better and more complex applications. With AI, this process will speed up, allowing us to build more complex software faster than ever before. However, this will also bring new challenges, such as debugging. An old anecdote says that debugging is twice as hard as writing code, meaning that if you do your best while writing code, you won’t be able to debug it.&lt;/p&gt;
 </content>
  </entry>
  

@@ -1,21 +1,21 @@
 [
   
     {
+      "title"    : "🤖 AI and Software Engineers",
+      "description" : "My thoughts about AI and Software Engineers.",
+      "category" : "",
+      "tags"     : "ai, thoughts, linkedin",
+      "url"      : "/2023/04/28/ai-and-software-engineers",
+      "date"     : "2023-04-28 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "TIL: Use VS Code as diff tool",
       "description" : "You can use Visual Studio Code as a diff tool.",
       "category" : "",
       "tags"     : "til",
       "url"      : "/2019/05/30/use-vscode-as-a-diff-tool",
       "date"     : "2019-05-30 00:00:00 +0200"
-    } ,
-  
-    {
-      "title"    : "🤖 AI and Software Engineers",
-      "description" : "My thoughts about AI and Software Engineers.",
-      "category" : "",
-      "tags"     : "ai, thoughts, linkedin",
-      "url"      : "/2017/11/16/ai-and-software-engineers",
-      "date"     : "2017-11-16 00:00:00 +0100"
     } ,
   
     {

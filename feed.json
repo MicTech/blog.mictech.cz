@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "https://blog.mictech.cz/2023/04/28/ai-and-software-engineers",
+            "title": "🤖 AI and Software Engineers",
+            "summary": "My thoughts about AI and Software Engineers.",
+            "content_text": "The hype around AI, GPT, LLM, and related technologies is hard to ignore these days, especially for those working in the software industry. Opinions are divided about how AI will change the software industry - some believe it will replace software engineers entirely, while others believe it will be a valuable tool for pair programming.I believe AI won’t eliminate software engineers, but it will certainly change the complexity of the software we build. Over the years, we’ve been building layers and layers of abstraction to create better and more complex applications. With AI, this process will speed up, allowing us to build more complex software faster than ever before. However, this will also bring new challenges, such as debugging. An old anecdote says that debugging is twice as hard as writing code, meaning that if you do your best while writing code, you won’t be able to debug it.",
+            "content_html": "<p>The hype around AI, GPT, LLM, and related technologies is hard to ignore these days, especially for those working in the software industry. Opinions are divided about how AI will change the software industry - some believe it will replace software engineers entirely, while others believe it will be a valuable tool for pair programming.</p><p>I believe AI won’t eliminate software engineers, but it will certainly change the complexity of the software we build. Over the years, we’ve been building layers and layers of abstraction to create better and more complex applications. With AI, this process will speed up, allowing us to build more complex software faster than ever before. However, this will also bring new challenges, such as debugging. An old anecdote says that debugging is twice as hard as writing code, meaning that if you do your best while writing code, you won’t be able to debug it.</p>",
+            "url": "https://blog.mictech.cz/2023/04/28/ai-and-software-engineers",
+            
+            
+            
+            "tags": ["ai","thoughts","linkedin"],
+            
+            "date_published": "2023-04-28T00:00:00+02:00",
+            "date_modified": "2023-04-28T00:00:00+02:00",
+            
+                "author":  {
+                "name": "Michal Těhník // MicTech",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://blog.mictech.cz/2019/05/30/use-vscode-as-a-diff-tool",
             "title": "TIL: Use VS Code as diff tool",
             "summary": "You can use Visual Studio Code as a diff tool.",
@@ -30,30 +54,6 @@
             
             "date_published": "2019-05-30T00:00:00+02:00",
             "date_modified": "2019-05-30T00:00:00+02:00",
-            
-                "author":  {
-                "name": "Michal Těhník // MicTech",
-                "url": null,
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
-            "id": "https://blog.mictech.cz/2017/11/16/ai-and-software-engineers",
-            "title": "🤖 AI and Software Engineers",
-            "summary": "My thoughts about AI and Software Engineers.",
-            "content_text": "The hype around AI, GPT, LLM, and related technologies is hard to ignore these days, especially for those working in the software industry. Opinions are divided about how AI will change the software industry - some believe it will replace software engineers entirely, while others believe it will be a valuable tool for pair programming.I believe AI won’t eliminate software engineers, but it will certainly change the complexity of the software we build. Over the years, we’ve been building layers and layers of abstraction to create better and more complex applications. With AI, this process will speed up, allowing us to build more complex software faster than ever before. However, this will also bring new challenges, such as debugging. An old anecdote says that debugging is twice as hard as writing code, meaning that if you do your best while writing code, you won’t be able to debug it.",
-            "content_html": "<p>The hype around AI, GPT, LLM, and related technologies is hard to ignore these days, especially for those working in the software industry. Opinions are divided about how AI will change the software industry - some believe it will replace software engineers entirely, while others believe it will be a valuable tool for pair programming.</p><p>I believe AI won’t eliminate software engineers, but it will certainly change the complexity of the software we build. Over the years, we’ve been building layers and layers of abstraction to create better and more complex applications. With AI, this process will speed up, allowing us to build more complex software faster than ever before. However, this will also bring new challenges, such as debugging. An old anecdote says that debugging is twice as hard as writing code, meaning that if you do your best while writing code, you won’t be able to debug it.</p>",
-            "url": "https://blog.mictech.cz/2017/11/16/ai-and-software-engineers",
-            
-            
-            
-            "tags": ["ai","thoughts","linkedin"],
-            
-            "date_published": "2017-11-16T00:00:00+01:00",
-            "date_modified": "2017-11-16T00:00:00+01:00",
             
                 "author":  {
                 "name": "Michal Těhník // MicTech",
