@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Future of AI tools"
+title: "🤖 Future of AI tools"
 description: My prediction of the future of AI tools.
 summary: My prediction of the future of AI tools.
 tags: ai thoughts linkedin
