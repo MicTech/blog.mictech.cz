@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Future of AI tools",
+      "description" : "My prediction of the future of AI tools.",
+      "category" : "",
+      "tags"     : "ai, thoughts, linkedin",
+      "url"      : "/2023/05/05/future-of-ai-tools",
+      "date"     : "2023-05-05 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "🤖 AI and Software Engineers",
       "description" : "My thoughts about AI and Software Engineers.",
       "category" : "",
