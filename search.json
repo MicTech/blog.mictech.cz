@@ -10,6 +10,15 @@
     } ,
   
     {
+      "title"    : "🤖 AI and Software Engineers",
+      "description" : "My thoughts about AI and Software Engineers.",
+      "category" : "",
+      "tags"     : "ai, thoughts, linkedin",
+      "url"      : "/2017/11/16/ai-and-software-engineers",
+      "date"     : "2017-11-16 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "TIL: How to create a simple histogram to see a trend in data",
       "description" : "You can use SQL for generating simple histograms.",
       "category" : "",
